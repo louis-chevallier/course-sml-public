@@ -1,3 +1,5 @@
+modif
+
 ## Statistical Machine Learning 1RT700
 
 This repository is used to host the files needed for the exercise sessions and the computer lab in the course [Statistical Machine Learning](http://www.it.uu.se/edu/course/homepage/sml) at Uppsala University.
